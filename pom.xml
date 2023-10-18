@@ -42,8 +42,8 @@ xsi:schemaLocation = "http://maven.apache.org/POM/4.0.0 http://maven.apache.org/
    </dependencies>
 
    <build>
-    <pluginManagement>
-      <plugins>
+     <pluginManagement>
+       <plugins>
          <plugin>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
